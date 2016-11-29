@@ -1,0 +1,9 @@
+c:\users\parda.co\documents\visual studio 2015\Projects\myGitProject\myGitProject\bin\Debug\myGitProject.exe.config
+c:\users\parda.co\documents\visual studio 2015\Projects\myGitProject\myGitProject\bin\Debug\myGitProject.exe
+c:\users\parda.co\documents\visual studio 2015\Projects\myGitProject\myGitProject\bin\Debug\myGitProject.pdb
+c:\users\parda.co\documents\visual studio 2015\Projects\myGitProject\myGitProject\obj\Debug\myGitProject.csprojResolveAssemblyReference.cache
+c:\users\parda.co\documents\visual studio 2015\Projects\myGitProject\myGitProject\obj\Debug\myGitProject.Form1.resources
+c:\users\parda.co\documents\visual studio 2015\Projects\myGitProject\myGitProject\obj\Debug\myGitProject.Properties.Resources.resources
+c:\users\parda.co\documents\visual studio 2015\Projects\myGitProject\myGitProject\obj\Debug\myGitProject.csproj.GenerateResource.Cache
+c:\users\parda.co\documents\visual studio 2015\Projects\myGitProject\myGitProject\obj\Debug\myGitProject.exe
+c:\users\parda.co\documents\visual studio 2015\Projects\myGitProject\myGitProject\obj\Debug\myGitProject.pdb
